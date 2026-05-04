@@ -190,7 +190,7 @@ export async function GET(request, { params }) {
   <!-- Header Section -->
   <header>
     <a href="https://rebrand.ly/com88" class="logo">
-      TANGKAS DOMINO 88
+      TANGKAS DOMINO BONANZA88
     </a>
     <nav>
       <a href="https://rebrand.ly/com88">Daftar</a>
