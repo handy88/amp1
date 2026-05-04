@@ -190,7 +190,7 @@ export async function GET(request, { params }) {
   <!-- Header Section -->
   <header>
     <a href="https://rebrand.ly/com88" class="logo">
-      TOGEL JITU 88
+      TOGEL JITU BONANZA88
     </a>
     <nav>
       <a href="https://rebrand.ly/com88">Daftar</a>
