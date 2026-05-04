@@ -1,4 +1,5 @@
 export async function GET(request, { params }) {
+  const currentUrl = request.url;
   // You must provide the exact boilerplate required by the AMP standard
   const ampHtml = `
   <!doctype html>
@@ -10,9 +11,8 @@ export async function GET(request, { params }) {
   <title>Login & Link Alternatif Situs Slot Online Gacor Terpercaya 2026</title>
  
   <!-- SEO: Canonical link wajib untuk AMP -->
-  <link rel="canonical" href="https://example.com/login-slot-gacor">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-  <link rel="canonical" href="https://amp1-self.vercel.app/">
+  <link rel="canonical" href="${currentUrl}">
   
   <!-- SEO: Meta Description penting untuk Click-Through Rate (CTR) di Google -->
   <meta name="description" content="Mencari situs judi slot online gacor terpercaya di Indonesia? Daftar sekarang untuk nikmati game gampang menang, RTP live tertinggi, dan jackpot maxwin!">
