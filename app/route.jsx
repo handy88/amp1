@@ -8,12 +8,14 @@ export async function GET(request, { params }) {
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <!-- SEO: Title Tag yang mengandung kata kunci utama -->
   <title>Login & Link Alternatif Situs Slot Online Gacor Terpercaya 2026</title>
+ 
   <!-- SEO: Canonical link wajib untuk AMP -->
   <link rel="canonical" href="https://example.com/login-slot-gacor">
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <link rel="canonical" href="https://amp1-self.vercel.app/">
   
   <!-- SEO: Meta Description penting untuk Click-Through Rate (CTR) di Google -->
-  <meta name="description" content="Akses link alternatif resmi situs slot online gacor terpercaya. Login sekarang untuk menikmati game slot gampang menang dengan RTP tertinggi dan jackpot maxwin.">
+  <meta name="description" content="Mencari situs judi slot online gacor terpercaya di Indonesia? Daftar sekarang untuk nikmati game gampang menang, RTP live tertinggi, dan jackpot maxwin!">
 
   <!-- AMP Boilerplate -->
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
