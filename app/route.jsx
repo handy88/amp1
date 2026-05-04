@@ -7,29 +7,27 @@ export async function GET(request, { params }) {
   <meta charset="utf-8">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   
-  <!-- SEO: Title Tag fokus pada Bola Tangkas, Tangkasnet & 88Tangkas -->
-  <title>Situs Bola Tangkas Online Terpercaya 2026 | Login Tangkasnet & 88Tangkas</title>
+  <!-- SEO: Title Tag fokus pada Bandar Togel Terpercaya & Hadiah Terbesar -->
+  <title>Bandar Judi Togel Online Terpercaya 2026 | Hadiah 4D 10 Juta Terbesar</title>
  
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="canonical" href="${currentUrl}">
-
-  <meta name="google-site-verification" content="lq0osuXFXuTPJvzJTzUOB7vW_tCMA0dAMNiDRiZ2Afw" />
   
-  <!-- SEO: Meta Description fokus pada variasi game tangkas dan kemudahan jackpot -->
-  <meta name="description" content="Daftar di situs bola tangkas online terpercaya 2026. Akses login Tangkasnet, 88Tangkas, dan game Mickey Mouse resmi dengan sistem fair play, kartu murni, dan jackpot besar.">
+  <!-- SEO: Meta Description fokus pada pasaran lengkap dan jaminan pembayaran -->
+  <meta name="description" content="Daftar di bandar judi togel online terpercaya 2026. Situs togel resmi dengan pasaran HK, SGP, SDY terlengkap, hadiah 4D 10 juta, dan jaminan menang berapapun pasti dibayar lunas.">
 
-  <!-- JSON-LD Schema: Dioptimalkan untuk Game & Layanan -->
+  <!-- JSON-LD Schema: Dioptimalkan untuk Lottery/Togel Service -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Login Situs Bola Tangkas Online Resmi 2026",
-    "description": "Agen bola tangkas online terbesar menyediakan platform Tangkasnet dan 88Tangkas dengan sistem kartu murni.",
+    "name": "Login Bandar Togel Online Resmi 2026",
+    "description": "Platform judi togel online dengan pasaran internasional terlengkap dan diskon pemasangan terbesar.",
     "url": "${currentUrl}",
     "aggregateRating": {
       "@type": "AggregateRating",
-      "ratingValue": "4.8",
-      "reviewCount": "1920"
+      "ratingValue": "4.9",
+      "reviewCount": "5420"
     }
   }
   </script>
@@ -38,7 +36,7 @@ export async function GET(request, { params }) {
 
   <style amp-custom>
     :root {
-      --header-bg: #052c05; /* Warna hijau khas meja tangkas */
+      --header-bg: #2d0a4e; /* Warna ungu tua elegan khas togel premium */
       --text-dark: #333333;
       --text-light: #777777;
       --bg-footer: #f4f4f4;
@@ -190,56 +188,56 @@ export async function GET(request, { params }) {
   <!-- Header Section -->
   <header>
     <a href="https://rebrand.ly/com88" class="logo">
-      TANGKAS DOMINO 88
+      TOGEL JITU 88
     </a>
     <nav>
       <a href="https://rebrand.ly/com88">Daftar</a>
-      <a href="https://rebrand.ly/com88">Tangkasnet</a>
-      <a href="https://rebrand.ly/com88">88Tangkas</a>
-      <a href="https://rebrand.ly/com88">Mickey Mouse</a>
-      <a href="https://rebrand.ly/com88">Bonus</a>
+      <a href="https://rebrand.ly/com88">Prediksi Togel</a>
+      <a href="https://rebrand.ly/com88">Result Data HK</a>
+      <a href="https://rebrand.ly/com88">Live Draw</a>
+      <a href="https://rebrand.ly/com88">Buku Mimpi</a>
     </nav>
     <div class="search-icon">🔍</div>
   </header>
 
   <!-- Main Content Section -->
   <main>
-    <h1>Link Alternatif Login Bola Tangkas Online Terpercaya & Sistem Kartu Murni</h1>
+    <h1>Link Alternatif Login Bandar Judi Togel Online Resmi Pasaran Terlengkap</h1>
     
-    <p>Selamat datang di pusat permainan <strong>bola tangkas online</strong> terbaik yang mengutamakan kejujuran dan kenyamanan bermain. Kami menghadirkan platform klasik yang paling dicari seperti Tangkasnet dan 88Tangkas dengan sistem kartu murni tanpa setingan, memberikan Anda peluang jackpot yang nyata dan transparan.</p>
+    <p>Bergabunglah bersama <strong>bandar judi togel online</strong> terpercaya yang menawarkan pengalaman pasang angka paling aman dan menguntungkan. Kami menyediakan berbagai pilihan pasaran togel internasional resmi seperti Togel Singapore (SGP), Togel Hongkong (HK), Togel Sydney (SDY), hingga pasaran WLA dengan jadwal result yang akurat dan transparan.</p>
     
-    <p>Gunakan link alternatif resmi ini untuk melakukan login ke dalam akun Anda dengan aman. Kami memahami kerinduan para pemain terhadap game "Mickey Mouse" legendaris, oleh karena itu kami menyediakan akses cepat yang anti-blokir agar Anda bisa menyusun kartu 7-up dan meraih Royal Flush kapan saja melalui perangkat mobile maupun komputer.</p>
+    <p>Melalui halaman ini, Anda dapat mengakses link alternatif resmi kami untuk melakukan login dan memasang angka keberuntungan tanpa kendala internet positif. Nikmati keuntungan maksimal dengan hadiah kemenangan 4D terbesar hingga 10 Juta Rupiah serta diskon pemasangan tertinggi di kelasnya, menjadikan setiap taruhan Anda jauh lebih efisien.</p>
     
-    <p>Sebagai agen tangkas resmi, kami menjamin keamanan kredit Anda dan kerahasiaan data pribadi. Segera klaim bonus khusus member baru dan nikmati layanan pelanggan yang siap membantu kendala teknis Anda selama 24 jam penuh setiap harinya.</p>
+    <p>Kami berkomitmen penuh sebagai agen togel amanah yang menjamin pembayaran kemenangan secara kilat (WD JP berapapun dibayar lunas). Lengkapi strategi Anda dengan fitur Buku Mimpi, Prediksi Jitu harian, dan Data Result tercepat yang kami sediakan khusus untuk member setia.</p>
 
     <!-- Buttons -->
     <div class="button-container">
-      <a href="https://rebrand.ly/com88" class="btn btn-login">Login Bola Tangkas</a>
-      <a href="https://rebrand.ly/com88" class="btn btn-alt">Download Tangkasnet</a>
+      <a href="https://rebrand.ly/com88" class="btn btn-login">Login Pasang Angka</a>
+      <a href="https://rebrand.ly/com88" class="btn btn-alt">Daftar Akun Togel</a>
     </div>
 
     <!-- Instructions -->
-    <div class="instruction-title">Cara Bermain Bola Tangkas Online:</div>
+    <div class="instruction-title">Panduan Pasang Togel Online:</div>
     <ul>
-      <li>Gunakan tombol <strong>Login Bola Tangkas</strong> untuk masuk ke menu pilihan provider (Tangkasnet atau 88Tangkas).</li>
-      <li>Lakukan pengisian koin melalui layanan deposit tercepat via Bank, E-wallet, atau Pulsa.</li>
-      <li>Pahami pola kartu dan pilih meja keberuntungan Anda untuk mulai menyusun kombinasi kemenangan.</li>
+      <li>Klik tombol <strong>Login Pasang Angka</strong> untuk masuk ke dashboard utama.</li>
+      <li>Pilih pasaran togel yang sedang dibuka (misalnya SGP atau HK) dan jenis taruhan (4D/3D/2D, Colok Bebas, atau Shio).</li>
+      <li>Masukkan nominal taruhan Anda, periksa kembali angka yang dipasang, lalu klik kirim untuk mendapatkan bukti invoice sah.</li>
     </ul>
 
     <!-- Footer Note -->
-    <p class="note">Penting bagi para pemain untuk selalu menggunakan link resmi ini demi menghindari upaya penipuan. Kami berkomitmen sebagai bandar bola tangkas terpercaya yang selalu membayar berapapun kemenangan jackpot Anda tanpa potongan. Mainkan strategi terbaik Anda dan raih kemenangan harian!</p>
+    <p class="note">Selalu pastikan Anda bertaruh melalui link resmi ini untuk menghindari situs tiruan yang tidak bertanggung jawab. Keamanan akun dan kecepatan transaksi depo/wd adalah prioritas utama kami. Gunakan analisa yang tepat, pasang angka keberuntungan Anda, dan raih jackpot paus hari ini!</p>
   </main>
 
   <!-- Footer Section -->
   <footer>
     <div class="footer-links">
-      <a href="https://rebrand.ly/com88">Jadwal Bank</a>
-      <a href="https://rebrand.ly/com88">Cara Main Tangkas</a>
-      <a href="https://rebrand.ly/com88">Customer Service</a>
-      <a href="https://rebrand.ly/com88">Kebijakan Privasi</a>
+      <a href="https://rebrand.ly/com88">Jadwal Pasaran</a>
+      <a href="https://rebrand.ly/com88">Cara Hitung Rumus</a>
+      <a href="https://rebrand.ly/com88">Informasi Hadiah</a>
+      <a href="https://rebrand.ly/com88">Layanan CS 24/7</a>
     </div>
     <div class="copyright">
-      &copy; 2026 Agen Bola Tangkas Online Resmi & Terpercaya. All Rights Reserved.
+      &copy; 2026 Bandar Judi Togel Online Terpercaya & Resmi. All Rights Reserved.
     </div>
   </footer>
 
