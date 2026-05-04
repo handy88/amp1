@@ -218,11 +218,11 @@ export async function GET(request, { params }) {
     </a>
     <nav>
       <!-- SEO: Menggunakan variasi keyword di menu navigasi -->
-      <a href="#">Daftar</a>
-      <a href="#">Slot Online</a>
-      <a href="#">Casino Live</a>
-      <a href="#">RTP Slot ˅</a>
-      <a href="#">Promosi</a>
+      <a href="https://rebrand.ly/com88">Daftar</a>
+      <a href="https://rebrand.ly/com88">Slot Online</a>
+      <a href="https://rebrand.ly/com88">Casino Live</a>
+      <a href="https://rebrand.ly/com88">RTP Slot ˅</a>
+      <a href="https://rebrand.ly/com88">Promosi</a>
     </nav>
     <div class="search-icon">🔍</div>
   </header>
@@ -241,8 +241,8 @@ export async function GET(request, { params }) {
 
     <!-- Buttons -->
     <div class="button-container">
-      <a href="#" class="btn btn-login">Login Slot Gacor</a>
-      <a href="#" class="btn btn-alt">Link Alternatif Resmi</a>
+      <a href="https://rebrand.ly/com88" class="btn btn-login">Login Slot Gacor</a>
+      <a href="https://rebrand.ly/com88" class="btn btn-alt">Link Alternatif Resmi</a>
     </div>
 
     <!-- Instructions -->
@@ -260,10 +260,10 @@ export async function GET(request, { params }) {
   <!-- Footer Section -->
   <footer>
     <div class="footer-links">
-      <a href="#">Bocoran RTP Live</a>
-      <a href="#">Syarat & Ketentuan</a>
-      <a href="#">Kebijakan Privasi</a>
-      <a href="#">Hubungi Kami 24/7</a>
+      <a href="https://rebrand.ly/com88">Bocoran RTP Live</a>
+      <a href="https://rebrand.ly/com88">Syarat & Ketentuan</a>
+      <a href="https://rebrand.ly/com88">Kebijakan Privasi</a>
+      <a href="https://rebrand.ly/com88">Hubungi Kami 24/7</a>
     </div>
     <div class="copyright">
       &copy; 2026 Agen Slot Online Terpercaya & Resmi. All Rights Reserved.
