@@ -214,7 +214,7 @@ export async function GET(request, { params }) {
   <!-- Header Section -->
   <header>
     <a href="#" class="logo">
-      SLOT GACOR 88
+      SLOT GACOR BONANZA88
     </a>
     <nav>
       <!-- SEO: Menggunakan variasi keyword di menu navigasi -->
