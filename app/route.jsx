@@ -191,7 +191,7 @@ export async function GET(request, { params }) {
   <!-- Header Section -->
   <header>
     <a href="https://rebrand.ly/com88" class="logo">
-      ROYAL CASINO 88
+      ROYAL CASINO BONANZA88
     </a>
     <nav>
       <a href="https://rebrand.ly/com88">Daftar</a>
