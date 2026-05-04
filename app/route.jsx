@@ -13,6 +13,8 @@ export async function GET(request, { params }) {
  
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="canonical" href="${currentUrl}">
+
+  <meta name="google-site-verification" content="lq0osuXFXuTPJvzJTzUOB7vW_tCMA0dAMNiDRiZ2Afw" />
   
   <!-- SEO: Meta Description fokus pada Pasaran Bola & Keamanan -->
   <meta name="description" content="Daftar di situs judi bola resmi dan agen Judi bola terpercaya. Nikmati pasaran bola terlengkap, odds tertinggi, dan link alternatif login taruhan bola online 24 jam aman.">
