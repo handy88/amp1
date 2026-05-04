@@ -7,27 +7,27 @@ export async function GET(request, { params }) {
   <meta charset="utf-8">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   
-  <!-- SEO: Title Tag fokus pada Live Casino & Provider Terpercaya -->
-  <title>Situs Live Casino Online Terpercaya 2026 - Link Alternatif Agen Resmi</title>
+  <!-- SEO: Title Tag fokus pada Bola Tangkas, Tangkasnet & 88Tangkas -->
+  <title>Situs Bola Tangkas Online Terpercaya 2026 | Login Tangkasnet & 88Tangkas</title>
  
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="canonical" href="${currentUrl}">
   
-  <!-- SEO: Meta Description fokus pada variasi game kasino dan keamanan -->
-  <meta name="description" content="Daftar di situs live casino online terbaik 2026. Akses link login alternatif agen kasino resmi dengan game Baccarat, Roulette, Sicbo, dan Blackjack kualitas HD terlengkap.">
+  <!-- SEO: Meta Description fokus pada variasi game tangkas dan kemudahan jackpot -->
+  <meta name="description" content="Daftar di situs bola tangkas online terpercaya 2026. Akses login Tangkasnet, 88Tangkas, dan game Mickey Mouse resmi dengan sistem fair play, kartu murni, dan jackpot besar.">
 
-  <!-- JSON-LD Schema: Dioptimalkan untuk Casino & Service -->
+  <!-- JSON-LD Schema: Dioptimalkan untuk Game & Layanan -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Login Situs Live Casino Online Resmi 2026",
-    "description": "Pusat permainan kasino online terlengkap dengan dealer real-time dari provider ternama dunia.",
+    "name": "Login Situs Bola Tangkas Online Resmi 2026",
+    "description": "Agen bola tangkas online terbesar menyediakan platform Tangkasnet dan 88Tangkas dengan sistem kartu murni.",
     "url": "${currentUrl}",
     "aggregateRating": {
       "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "3120"
+      "ratingValue": "4.8",
+      "reviewCount": "1920"
     }
   }
   </script>
@@ -36,7 +36,7 @@ export async function GET(request, { params }) {
 
   <style amp-custom>
     :root {
-      --header-bg: #1a1a1a;
+      --header-bg: #052c05; /* Warna hijau khas meja tangkas */
       --text-dark: #333333;
       --text-light: #777777;
       --bg-footer: #f4f4f4;
@@ -90,7 +90,6 @@ export async function GET(request, { params }) {
       margin: 40px auto;
       padding: 0 20px;
     }
-      
     h1 {
       font-size: 22px;
       color: #000;
@@ -189,13 +188,13 @@ export async function GET(request, { params }) {
   <!-- Header Section -->
   <header>
     <a href="https://rebrand.ly/com88" class="logo">
-      ROYAL CASINO 88
+      TANGKAS DOMINO 88
     </a>
     <nav>
       <a href="https://rebrand.ly/com88">Daftar</a>
-      <a href="https://rebrand.ly/com88">Live Casino</a>
-      <a href="https://rebrand.ly/com88">Baccarat</a>
-      <a href="https://rebrand.ly/com88">Roulette</a>
+      <a href="https://rebrand.ly/com88">Tangkasnet</a>
+      <a href="https://rebrand.ly/com88">88Tangkas</a>
+      <a href="https://rebrand.ly/com88">Mickey Mouse</a>
       <a href="https://rebrand.ly/com88">Bonus</a>
     </nav>
     <div class="search-icon">🔍</div>
@@ -203,42 +202,42 @@ export async function GET(request, { params }) {
 
   <!-- Main Content Section -->
   <main>
-    <h1>Link Alternatif Login Live Casino Online Terpercaya & Dealer Real-Time HD</h1>
+    <h1>Link Alternatif Login Bola Tangkas Online Terpercaya & Sistem Kartu Murni</h1>
     
-    <p>Nikmati kemewahan bermain di <strong>live casino online</strong> terpercaya yang menghadirkan suasana kasino asli langsung ke layar perangkat Anda. Kami menyediakan berbagai pilihan permainan meja populer dengan kualitas streaming High Definition (HD) dan dealer profesional yang siap menemani taruhan Anda selama 24 jam nonstop.</p>
+    <p>Selamat datang di pusat permainan <strong>bola tangkas online</strong> terbaik yang mengutamakan kejujuran dan kenyamanan bermain. Kami menghadirkan platform klasik yang paling dicari seperti Tangkasnet dan 88Tangkas dengan sistem kartu murni tanpa setingan, memberikan Anda peluang jackpot yang nyata dan transparan.</p>
     
-    <p>Halaman login ini adalah link alternatif resmi yang kami siapkan untuk menjamin akses tanpa batas bagi para member setia. Rasakan sensasi bermain Baccarat, Roulette, Sic Bo, hingga Dragon Tiger dengan sistem fair play yang telah tersertifikasi internasional, menjamin keamanan modal dan privasi data Anda.</p>
+    <p>Gunakan link alternatif resmi ini untuk melakukan login ke dalam akun Anda dengan aman. Kami memahami kerinduan para pemain terhadap game "Mickey Mouse" legendaris, oleh karena itu kami menyediakan akses cepat yang anti-blokir agar Anda bisa menyusun kartu 7-up dan meraih Royal Flush kapan saja melalui perangkat mobile maupun komputer.</p>
     
-    <p>Sebagai agen kasino resmi, kami bekerja sama dengan provider raksasa dunia untuk memastikan setiap putaran permainan berjalan transparan. Segera klaim bonus turnover harian dan komisi rollingan terbesar hanya dengan bergabung melalui tautan resmi ini.</p>
+    <p>Sebagai agen tangkas resmi, kami menjamin keamanan kredit Anda dan kerahasiaan data pribadi. Segera klaim bonus khusus member baru dan nikmati layanan pelanggan yang siap membantu kendala teknis Anda selama 24 jam penuh setiap harinya.</p>
 
     <!-- Buttons -->
     <div class="button-container">
-      <a href="https://rebrand.ly/com88" class="btn btn-login">Login Live Casino</a>
-      <a href="https://rebrand.ly/com88" class="btn btn-alt">Daftar Akun VIP</a>
+      <a href="https://rebrand.ly/com88" class="btn btn-login">Login Bola Tangkas</a>
+      <a href="https://rebrand.ly/com88" class="btn btn-alt">Download Tangkasnet</a>
     </div>
 
     <!-- Instructions -->
-    <div class="instruction-title">Panduan Bermain di Kasino Online:</div>
+    <div class="instruction-title">Cara Bermain Bola Tangkas Online:</div>
     <ul>
-      <li>Gunakan tombol <strong>Login Live Casino</strong> untuk mengakses lobby permainan utama.</li>
-      <li>Pilih provider kasino favorit Anda (seperti Evolution Gaming, Pragmatic Play, atau Sexy Baccarat).</li>
-      <li>Pastikan saldo deposit mencukupi dan pilih meja taruhan sesuai dengan limit yang Anda inginkan.</li>
+      <li>Gunakan tombol <strong>Login Bola Tangkas</strong> untuk masuk ke menu pilihan provider (Tangkasnet atau 88Tangkas).</li>
+      <li>Lakukan pengisian koin melalui layanan deposit tercepat via Bank, E-wallet, atau Pulsa.</li>
+      <li>Pahami pola kartu dan pilih meja keberuntungan Anda untuk mulai menyusun kombinasi kemenangan.</li>
     </ul>
 
     <!-- Footer Note -->
-    <p class="note">Keamanan transaksi adalah prioritas utama kami sebagai bandar kasino online terpercaya. Proses deposit dan penarikan kemenangan dilakukan secara kilat melalui bank lokal, e-wallet, maupun QRIS. Bermainlah secara bertanggung jawab dan nikmati pengalaman eksklusif kelas dunia.</p>
+    <p class="note">Penting bagi para pemain untuk selalu menggunakan link resmi ini demi menghindari upaya penipuan. Kami berkomitmen sebagai bandar bola tangkas terpercaya yang selalu membayar berapapun kemenangan jackpot Anda tanpa potongan. Mainkan strategi terbaik Anda dan raih kemenangan harian!</p>
   </main>
 
   <!-- Footer Section -->
   <footer>
     <div class="footer-links">
-      <a href="https://rebrand.ly/com88">Tentang Kami</a>
-      <a href="https://rebrand.ly/com88">Panduan Bermain</a>
-      <a href="https://rebrand.ly/com88">Kontak Resmi</a>
-      <a href="https://rebrand.ly/com88">Promosi Kasino</a>
+      <a href="https://rebrand.ly/com88">Jadwal Bank</a>
+      <a href="https://rebrand.ly/com88">Cara Main Tangkas</a>
+      <a href="https://rebrand.ly/com88">Customer Service</a>
+      <a href="https://rebrand.ly/com88">Kebijakan Privasi</a>
     </div>
     <div class="copyright">
-      &copy; 2026 Royal Casino Online Terpercaya & Link Alternatif Resmi.
+      &copy; 2026 Agen Bola Tangkas Online Resmi & Terpercaya. All Rights Reserved.
     </div>
   </footer>
 
