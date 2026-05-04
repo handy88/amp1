@@ -7,8 +7,8 @@ export async function GET(request, { params }) {
   <meta charset="utf-8">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   
-  <!-- SEO: Title Tag fokus pada Bola Tangkas, Tangkasnet & 88Tangkas -->
-  <title>Situs Bola Tangkas Online Terpercaya 2026 | Login Tangkasnet & 88Tangkas</title>
+  <!-- SEO: Title Tag fokus pada Bola Tangkas, Bonanza88 & 88Tangkas -->
+  <title>Situs Bola Tangkas Online Terpercaya 2026 | Login bonanza88 & 88Tangkas</title>
  
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="canonical" href="${currentUrl}">
@@ -16,7 +16,7 @@ export async function GET(request, { params }) {
   <meta name="google-site-verification" content="lq0osuXFXuTPJvzJTzUOB7vW_tCMA0dAMNiDRiZ2Afw" />
   
   <!-- SEO: Meta Description fokus pada variasi game tangkas dan kemudahan jackpot -->
-  <meta name="description" content="Daftar di situs bola tangkas online terpercaya 2026. Akses login Tangkasnet, 88Tangkas, dan game Mickey Mouse resmi dengan sistem fair play, kartu murni, dan jackpot besar.">
+  <meta name="description" content="Daftar di situs bola tangkas online terpercaya 2026. Akses login bonanza88, 88Tangkas, dan game Mickey Mouse resmi dengan sistem fair play, kartu murni, dan jackpot besar.">
 
   <!-- JSON-LD Schema: Dioptimalkan untuk Game & Layanan -->
   <script type="application/ld+json">
@@ -24,7 +24,7 @@ export async function GET(request, { params }) {
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Login Situs Bola Tangkas Online Resmi 2026",
-    "description": "Agen bola tangkas online terbesar menyediakan platform Tangkasnet dan 88Tangkas dengan sistem kartu murni.",
+    "description": "Agen bola tangkas online terbesar menyediakan platform bonanza88 dan 88Tangkas dengan sistem kartu murni.",
     "url": "${currentUrl}",
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -194,7 +194,7 @@ export async function GET(request, { params }) {
     </a>
     <nav>
       <a href="https://rebrand.ly/com88">Daftar</a>
-      <a href="https://rebrand.ly/com88">Tangkasnet</a>
+      <a href="https://rebrand.ly/com88">Bonanza88</a>
       <a href="https://rebrand.ly/com88">88Tangkas</a>
       <a href="https://rebrand.ly/com88">Mickey Mouse</a>
       <a href="https://rebrand.ly/com88">Bonus</a>
@@ -206,7 +206,7 @@ export async function GET(request, { params }) {
   <main>
     <h1>Link Alternatif Login Bola Tangkas Online Terpercaya & Sistem Kartu Murni</h1>
     
-    <p>Selamat datang di pusat permainan <strong>bola tangkas online</strong> terbaik yang mengutamakan kejujuran dan kenyamanan bermain. Kami menghadirkan platform klasik yang paling dicari seperti Tangkasnet dan 88Tangkas dengan sistem kartu murni tanpa setingan, memberikan Anda peluang jackpot yang nyata dan transparan.</p>
+    <p>Selamat datang di pusat permainan <strong>bola tangkas online</strong> terbaik yang mengutamakan kejujuran dan kenyamanan bermain. Kami menghadirkan platform klasik yang paling dicari seperti bonanza88 dan 88Tangkas dengan sistem kartu murni tanpa setingan, memberikan Anda peluang jackpot yang nyata dan transparan.</p>
     
     <p>Gunakan link alternatif resmi ini untuk melakukan login ke dalam akun Anda dengan aman. Kami memahami kerinduan para pemain terhadap game "Mickey Mouse" legendaris, oleh karena itu kami menyediakan akses cepat yang anti-blokir agar Anda bisa menyusun kartu 7-up dan meraih Royal Flush kapan saja melalui perangkat mobile maupun komputer.</p>
     
@@ -215,13 +215,13 @@ export async function GET(request, { params }) {
     <!-- Buttons -->
     <div class="button-container">
       <a href="https://rebrand.ly/com88" class="btn btn-login">Login Bola Tangkas</a>
-      <a href="https://rebrand.ly/com88" class="btn btn-alt">Download Tangkasnet</a>
+      <a href="https://rebrand.ly/com88" class="btn btn-alt">Download Bonanza88</a>
     </div>
 
     <!-- Instructions -->
     <div class="instruction-title">Cara Bermain Bola Tangkas Online:</div>
     <ul>
-      <li>Gunakan tombol <strong>Login Bola Tangkas</strong> untuk masuk ke menu pilihan provider (Tangkasnet atau 88Tangkas).</li>
+      <li>Gunakan tombol <strong>Login Bola Tangkas</strong> untuk masuk ke menu pilihan provider (bonanza88 atau 88Tangkas).</li>
       <li>Lakukan pengisian koin melalui layanan deposit tercepat via Bank, E-wallet, atau Pulsa.</li>
       <li>Pahami pola kartu dan pilih meja keberuntungan Anda untuk mulai menyusun kombinasi kemenangan.</li>
     </ul>
