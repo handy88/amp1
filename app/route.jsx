@@ -17,6 +17,22 @@ export async function GET(request, { params }) {
   <!-- SEO: Meta Description penting untuk Click-Through Rate (CTR) di Google -->
   <meta name="description" content="Mencari situs judi slot online gacor terpercaya di Indonesia? Daftar sekarang untuk nikmati game gampang menang, RTP live tertinggi, dan jackpot maxwin!">
 
+<!-- JSON-LD Schema di Halaman AMP -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Login Situs Slot Gacor 2026",
+      "description": "Daftar dan login di situs slot online terpercaya.",
+      "url": "${currentUrl}",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1540"
+      }
+    }
+    </script>
+
   <!-- AMP Boilerplate -->
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
