@@ -90,6 +90,7 @@ export async function GET(request, { params }) {
       margin: 40px auto;
       padding: 0 20px;
     }
+      
     h1 {
       font-size: 22px;
       color: #000;
