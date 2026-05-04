@@ -1,44 +1,42 @@
 export async function GET(request, { params }) {
   const currentUrl = request.url;
   // You must provide the exact boilerplate required by the AMP standard
-  const ampHtml = `
-  <!doctype html>
+  const ampHtml = `<!doctype html>
 <html amp lang="id">
 <head>
   <meta charset="utf-8">
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   
-  <!-- SEO: Title Tag dengan fokus Judi Bola & Judi bola -->
-  <title>Situs Judi Bola Resmi & Agen Judi bola Terpercaya 2026 - Link Alternatif Login</title>
+  <!-- SEO: Title Tag fokus pada Live Casino & Provider Terpercaya -->
+  <title>Situs Live Casino Online Terpercaya 2026 - Link Alternatif Agen Resmi</title>
  
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="canonical" href="${currentUrl}">
   
-  <!-- SEO: Meta Description fokus pada Pasaran Bola & Keamanan -->
-  <meta name="description" content="Daftar di situs judi bola resmi dan agen Judi bola terpercaya. Nikmati pasaran bola terlengkap, odds tertinggi, dan link alternatif login taruhan bola online 24 jam aman.">
+  <!-- SEO: Meta Description fokus pada variasi game kasino dan keamanan -->
+  <meta name="description" content="Daftar di situs live casino online terbaik 2026. Akses link login alternatif agen kasino resmi dengan game Baccarat, Roulette, Sicbo, dan Blackjack kualitas HD terlengkap.">
 
-  <!-- JSON-LD Schema: Dioptimalkan untuk Sports Betting -->
+  <!-- JSON-LD Schema: Dioptimalkan untuk Casino & Service -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Login Agen Judi Bola Resmi 2026",
-    "description": "Platform taruhan bola online terbesar dengan pasaran liga cacing hingga liga besar dunia.",
+    "name": "Login Situs Live Casino Online Resmi 2026",
+    "description": "Pusat permainan kasino online terlengkap dengan dealer real-time dari provider ternama dunia.",
     "url": "${currentUrl}",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.9",
-      "reviewCount": "2850"
+      "reviewCount": "3120"
     }
   }
-    
   </script>
 
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
   <style amp-custom>
     :root {
-      --header-bg: #0b162c;
+      --header-bg: #1a1a1a;
       --text-dark: #333333;
       --text-light: #777777;
       --bg-footer: #f4f4f4;
@@ -58,6 +56,7 @@ export async function GET(request, { params }) {
       justify-content: space-between;
       color: white;
       flex-wrap: wrap;
+      border-bottom: 2px solid #eab308;
     }
     .logo {
       font-size: 24px;
@@ -189,56 +188,56 @@ export async function GET(request, { params }) {
   <!-- Header Section -->
   <header>
     <a href="https://rebrand.ly/com88" class="logo">
-      BOLA MASTER 88
+      ROYAL CASINO 88
     </a>
     <nav>
       <a href="https://rebrand.ly/com88">Daftar</a>
-      <a href="https://rebrand.ly/com88">Judi Bola</a>
-      <a href="https://rebrand.ly/com88">Judi bola Mobile</a>
-      <a href="https://rebrand.ly/com88">Jadwal Bola</a>
-      <a href="https://rebrand.ly/com88">Prediksi</a>
+      <a href="https://rebrand.ly/com88">Live Casino</a>
+      <a href="https://rebrand.ly/com88">Baccarat</a>
+      <a href="https://rebrand.ly/com88">Roulette</a>
+      <a href="https://rebrand.ly/com88">Bonus</a>
     </nav>
     <div class="search-icon">🔍</div>
   </header>
 
   <!-- Main Content Section -->
   <main>
-    <h1>Link Alternatif Login Agen Judi Bola Resmi & Pasaran Judi bola Terlengkap</h1>
+    <h1>Link Alternatif Login Live Casino Online Terpercaya & Dealer Real-Time HD</h1>
     
-    <p>Selamat datang di platform <strong>judi bola resmi</strong> terpercaya yang menghadirkan pengalaman taruhan olahraga terbaik. Kami menyediakan akses langsung ke agen Judi bola pusat dengan pasaran bola paling adil dan odds yang sangat menguntungkan bagi para bettor di Indonesia.</p>
+    <p>Nikmati kemewahan bermain di <strong>live casino online</strong> terpercaya yang menghadirkan suasana kasino asli langsung ke layar perangkat Anda. Kami menyediakan berbagai pilihan permainan meja populer dengan kualitas streaming High Definition (HD) dan dealer profesional yang siap menemani taruhan Anda selama 24 jam nonstop.</p>
     
-    <p>Gunakan link alternatif ini untuk menghindari pemblokiran akses saat ingin memasang taruhan pada tim favorit Anda. Kami menjamin koneksi stabil dan aman untuk bertaruh di berbagai kompetisi, mulai dari Liga Inggris, Liga Champions, hingga turnamen internasional bergengsi lainnya.</p>
+    <p>Halaman login ini adalah link alternatif resmi yang kami siapkan untuk menjamin akses tanpa batas bagi para member setia. Rasakan sensasi bermain Baccarat, Roulette, Sic Bo, hingga Dragon Tiger dengan sistem fair play yang telah tersertifikasi internasional, menjamin keamanan modal dan privasi data Anda.</p>
     
-    <p>Dapatkan update pasaran bola malam ini secara real-time dan nikmati kemudahan transaksi deposit maupun withdraw dalam hitungan menit melalui layanan perbankan terlengkap.</p>
+    <p>Sebagai agen kasino resmi, kami bekerja sama dengan provider raksasa dunia untuk memastikan setiap putaran permainan berjalan transparan. Segera klaim bonus turnover harian dan komisi rollingan terbesar hanya dengan bergabung melalui tautan resmi ini.</p>
 
     <!-- Buttons -->
     <div class="button-container">
-      <a href="https://rebrand.ly/com88" class="btn btn-login">Login Judi Bola</a>
-      <a href="https://rebrand.ly/com88" class="btn btn-alt">Link Alternatif Judi bola</a>
+      <a href="https://rebrand.ly/com88" class="btn btn-login">Login Live Casino</a>
+      <a href="https://rebrand.ly/com88" class="btn btn-alt">Daftar Akun VIP</a>
     </div>
 
     <!-- Instructions -->
-    <div class="instruction-title">Cara Memasang Taruhan Bola Online:</div>
+    <div class="instruction-title">Panduan Bermain di Kasino Online:</div>
     <ul>
-      <li>Klik tombol <strong>Login Judi Bola</strong> untuk masuk ke dashboard utama anggota.</li>
-      <li>Pilih jenis taruhan yang diinginkan, seperti Handicap (HDP), Over/Under (OU), atau Mix Parlay.</li>
-      <li>Analisa <strong>Prediksi Bola Malam Ini</strong> dan cek statistik tim sebelum mengonfirmasi tiket taruhan Anda.</li>
+      <li>Gunakan tombol <strong>Login Live Casino</strong> untuk mengakses lobby permainan utama.</li>
+      <li>Pilih provider kasino favorit Anda (seperti Evolution Gaming, Pragmatic Play, atau Sexy Baccarat).</li>
+      <li>Pastikan saldo deposit mencukupi dan pilih meja taruhan sesuai dengan limit yang Anda inginkan.</li>
     </ul>
 
     <!-- Footer Note -->
-    <p class="note">Sebagai bandar bola terpercaya, privasi dan kenyamanan Anda adalah prioritas kami. Pastikan Anda hanya login melalui link resmi ini untuk mendapatkan perlindungan data maksimal. Mainkan strategi taruhan Anda dan raih kemenangan besar hari ini.</p>
+    <p class="note">Keamanan transaksi adalah prioritas utama kami sebagai bandar kasino online terpercaya. Proses deposit dan penarikan kemenangan dilakukan secara kilat melalui bank lokal, e-wallet, maupun QRIS. Bermainlah secara bertanggung jawab dan nikmati pengalaman eksklusif kelas dunia.</p>
   </main>
 
   <!-- Footer Section -->
   <footer>
     <div class="footer-links">
-      <a href="https://rebrand.ly/com88">Live Score</a>
-      <a href="https://rebrand.ly/com88">Aturan Taruhan</a>
-      <a href="https://rebrand.ly/com88">Panduan Mix Parlay</a>
-      <a href="https://rebrand.ly/com88">CS 24 Jam</a>
+      <a href="https://rebrand.ly/com88">Tentang Kami</a>
+      <a href="https://rebrand.ly/com88">Panduan Bermain</a>
+      <a href="https://rebrand.ly/com88">Kontak Resmi</a>
+      <a href="https://rebrand.ly/com88">Promosi Kasino</a>
     </div>
     <div class="copyright">
-      &copy; 2026 Agen Judi Bola & Judi bola Resmi Terpercaya. All Rights Reserved.
+      &copy; 2026 Royal Casino Online Terpercaya & Link Alternatif Resmi.
     </div>
   </footer>
 
