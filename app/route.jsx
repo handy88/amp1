@@ -9,7 +9,7 @@ export async function GET(request, { params }) {
   <script async src="https://cdn.ampproject.org/v0.js"></script>
   <!-- SEO: Title Tag yang mengandung kata kunci utama -->
   <title>Login & Link Alternatif Situs Slot Online Gacor Terpercaya 2026</title>
- 
+ <meta name="google-site-verification" content="lq0osuXFXuTPJvzJTzUOB7vW_tCMA0dAMNiDRiZ2Afw" />
   <!-- SEO: Canonical link wajib untuk AMP -->
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <link rel="canonical" href="${currentUrl}">
